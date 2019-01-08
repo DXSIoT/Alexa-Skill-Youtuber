@@ -1,0 +1,77 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "el canal de daxes hacks",
+            "intents": [
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.NavigateHomeIntent",
+                    "samples": []
+                },
+                {
+                    "name": "SubscriptorsIntent",
+                    "slots": [],
+                    "samples": [
+                        "cuantos subscriptores tiene",
+                        "cuantos suscriptores tiene",
+                        "cuantas personas suscritas hay",
+                        "suscritos al canal",
+                        "subscritos al canal",
+                        "cuantos suscritos tiene el canal",
+                        "cuantos suscritos hay",
+                        "cantidad de suscriptores",
+                        "cantidad de subscriptores",
+                        "total de suscriptores",
+                        "número de suscriptores",
+                        "suscriptores",
+                        "total de subscriptores",
+                        "número de subscriptores",
+                        "subscriptores"
+                    ]
+                },
+                {
+                    "name": "LastVideoIntent",
+                    "slots": [],
+                    "samples": [
+                        "quiero ver el último video publicado",
+                        "quiero ver el último video",
+                        "dime el último video publicado",
+                        "el último video publicado",
+                        "último video publicado",
+                        "muéstrame el último video publicado",
+                        "muéstrame el último video",
+                        "cuál es el último video",
+                        "cómo se llama el último video",
+                        "cuando se publicó el último video",
+                        "Último video"
+                    ]
+                },
+                {
+                    "name": "CreditsIntent",
+                    "slots": [],
+                    "samples": [
+                        "quién hizo este skill",
+                        "contacto",
+                        "quién es el autor de este skill",
+                        "quién hizo esto",
+                        "quién creó esto",
+                        "quien creó este skill",
+                        "creditos"
+                    ]
+                }
+            ],
+            "types": []
+        }
+    }
+}
